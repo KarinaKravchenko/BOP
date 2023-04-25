@@ -1,0 +1,3 @@
+C:/Users/mskar/CLionProjects/bprogramming/cmake-build-debug/CMakeFiles/bprogramming.dir
+C:/Users/mskar/CLionProjects/bprogramming/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mskar/CLionProjects/bprogramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
