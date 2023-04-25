@@ -1,0 +1,4 @@
+# ninja log v5
+1	434	7041371429859502	CMakeFiles/bprogramming.dir/main.c.obj	2842fc5796d7f765
+28	457	7041371430108854	CMakeFiles/bprogramming.dir/libs/data_structures/vector/vector.c.obj	d5663b49bee71670
+457	683	7041371432333194	bprogramming.exe	835e397bd50abeb5
