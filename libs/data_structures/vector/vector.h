@@ -31,4 +31,21 @@ void shrinkToFit(vector *v);
 // освобождает память, выделенную структуре вектор v
 void deleteVector(vector *v);
 
+// возвращает "истина", если структура вектор v не содержит
+// элементы, иначе - "ложь"
+bool isEmpty(vector *v);
+
+// возвращает "истина", если структура вектор v содержит
+// максимальное количенство элементов, иначе - "ложь"
+bool isFull(vector *v);
+
+// возвращает элемент с индексом i структуры вектор v
+int getVectorValue(vector *v, size_t i);
+
+// добавляет элемент x в конец структуры вектор v
+void pushBack(vector *v, int x);
+
+// удоляет последний элемент структуры вектор v
+void popBack(vector *v);
+
 #endif //BPROGRAMMING_VECTOR_H
