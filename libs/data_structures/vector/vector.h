@@ -48,4 +48,13 @@ void pushBack(vector *v, int x);
 // удоляет последний элемент структуры вектор v
 void popBack(vector *v);
 
+// возврящает указатель на элемент с индексом index структуры вектор v
+int* atVector(vector *v, size_t index);
+
+// возврящает указатель на последний элемент структуры вектор v
+int* back(vector *v);
+
+// возврящает указатель на первый элемент структуры вектор v
+int* front(vector *v);
+
 #endif //BPROGRAMMING_VECTOR_H
